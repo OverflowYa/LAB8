@@ -1,0 +1,16 @@
+﻿<Page x:Class="WpfApp5.Page2"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Page2"
+    Loaded="Page_Loaded"
+        >
+    <StackPanel>
+        <TextBlock TextAlignment="Center" FontSize="24">Страница 2</TextBlock>
+        <TextBlock></TextBlock>
+        <TextBlock>Приветствуем Вас дорогой </TextBlock>
+        <Label Name="nameLabel"></Label>
+        <TextBlock Margin="0,10">   <!--Отступ сверху-->
+            <Hyperlink Click="LinkClicked">На страницу 3</Hyperlink>
+        </TextBlock>
+    </StackPanel>
+</Page>

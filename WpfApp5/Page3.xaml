@@ -1,0 +1,48 @@
+﻿<Page x:Class="WpfApp5.Page3"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Page3">
+    <StackPanel>
+        <!--Заголовок контекста страницы-->
+        <TextBlock TextAlignment="Center" FontSize="24">Страница 3
+            <TextBlock.Margin>0,0,0,10</TextBlock.Margin>
+        </TextBlock>
+        
+        <!--Первая кнопка-->
+        <Button Content="Push Me!" FontSize="22" Width="175" Height="50" Click="Button_Click">
+            <Button.Effect>
+                <DropShadowEffect />
+            </Button.Effect>
+        </Button>
+        
+        <!--Вторая кнопка-->
+        <Button FontSize="22" Height="50" Width="175" Margin="0,10" Click="Button_Click">
+            Кликни меня
+            <Button.Effect>
+                <DropShadowEffect />
+            </Button.Effect>
+            <Button.Foreground>
+                <LinearGradientBrush StartPoint="1,0" EndPoint="0,0">
+                    <GradientStop Color="Red" Offset="0" />
+                    <GradientStop Color="Orange" Offset=".17" />
+                    <GradientStop Color="Yellow" Offset=".33" />
+                    <GradientStop Color="Green" Offset=".5" />
+                    <GradientStop Color="CornflowerBlue" Offset=".67" />
+                    <GradientStop Color="Blue" Offset=".84" />
+                    <GradientStop Color="BlueViolet" Offset="1" />
+                </LinearGradientBrush>
+            </Button.Foreground>
+            <Button.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,0">
+                    <GradientStop Color="Red" Offset="0" />
+                    <GradientStop Color="Orange" Offset=".17" />
+                    <GradientStop Color="Yellow" Offset=".33" />
+                    <GradientStop Color="Green" Offset=".5" />
+                    <GradientStop Color="CornflowerBlue" Offset=".67" />
+                    <GradientStop Color="Blue" Offset=".84" />
+                    <GradientStop Color="BlueViolet" Offset="1" />
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+    </StackPanel>
+</Page>
