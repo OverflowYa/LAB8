@@ -1,0 +1,26 @@
+E:\Tmp\WpfApp\WpfApp3\bin\Debug\WpfApp3.exe
+E:\Tmp\WpfApp\WpfApp3\bin\Debug\WpfApp3.pdb
+E:\Tmp\WpfApp\WpfApp3\obj\Debug\ResolveAssemblyReference.cache
+E:\Tmp\WpfApp\WpfApp3\obj\Debug\WindowList.baml
+E:\Tmp\WpfApp\WpfApp3\obj\Debug\WindowList.g.cs
+E:\Tmp\WpfApp\WpfApp3\obj\Debug\App.g.cs
+E:\Tmp\WpfApp\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+E:\Tmp\WpfApp\WpfApp3\obj\Debug\WpfApp3.g.resources
+E:\Tmp\WpfApp\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+E:\Tmp\WpfApp\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.Cache
+E:\Tmp\WpfApp\WpfApp3\obj\Debug\WpfApp3.exe
+E:\Tmp\WpfApp\WpfApp3\obj\Debug\WpfApp3.pdb
+E:\Chair\Lab\Lab65 - WpfApp = Wpf & C# (VS.NET 2008)\WpfApp\WpfApp3\bin\Debug\WpfApp3.exe
+E:\Chair\Lab\Lab65 - WpfApp = Wpf & C# (VS.NET 2008)\WpfApp\WpfApp3\bin\Debug\WpfApp3.pdb
+E:\Chair\Lab\Lab65 - WpfApp = Wpf & C# (VS.NET 2008)\WpfApp\WpfApp3\obj\Debug\ResolveAssemblyReference.cache
+E:\Chair\Lab\Lab65 - WpfApp = Wpf & C# (VS.NET 2008)\WpfApp\WpfApp3\obj\Debug\WindowList.baml
+E:\Chair\Lab\Lab65 - WpfApp = Wpf & C# (VS.NET 2008)\WpfApp\WpfApp3\obj\Debug\WindowList.g.cs
+E:\Chair\Lab\Lab65 - WpfApp = Wpf & C# (VS.NET 2008)\WpfApp\WpfApp3\obj\Debug\App.g.cs
+E:\Chair\Lab\Lab65 - WpfApp = Wpf & C# (VS.NET 2008)\WpfApp\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+E:\Chair\Lab\Lab65 - WpfApp = Wpf & C# (VS.NET 2008)\WpfApp\WpfApp3\obj\Debug\WpfApp3.g.resources
+E:\Chair\Lab\Lab65 - WpfApp = Wpf & C# (VS.NET 2008)\WpfApp\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+E:\Chair\Lab\Lab65 - WpfApp = Wpf & C# (VS.NET 2008)\WpfApp\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.Cache
+E:\Chair\Lab\Lab65 - WpfApp = Wpf & C# (VS.NET 2008)\WpfApp\WpfApp3\obj\Debug\WpfApp3.exe
+E:\Chair\Lab\Lab65 - WpfApp = Wpf & C# (VS.NET 2008)\WpfApp\WpfApp3\obj\Debug\WpfApp3.pdb
+C:\Users\Vlad\Desktop\8 работа програм\WpfApp\WpfApp3\obj\Debug\WpfApp3.exe
+C:\Users\Vlad\Desktop\8 работа програм\WpfApp\WpfApp3\obj\Debug\WpfApp3.pdb

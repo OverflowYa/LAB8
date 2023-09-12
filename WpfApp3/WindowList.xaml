@@ -1,0 +1,13 @@
+﻿<Window x:Class="WpfApp3.WindowList"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="WindowList"
+    SizeToContent="WidthAndHeight"  
+    MinWidth="200"
+        >
+    <StackPanel>
+        <Button Click="NewWindowClicked">Создать новое окно</Button>
+        <Button Click="ListOpenWindows">Список открытых окон</Button>
+        <Button Click="AllCloseWindows">Закрыть все окна</Button>
+    </StackPanel>
+</Window>
