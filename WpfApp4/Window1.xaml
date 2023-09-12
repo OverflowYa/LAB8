@@ -1,0 +1,14 @@
+﻿<Window x:Class="WpfApp4.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:My="clr-namespace:WpfApp4"
+    Title="Упражнение 4" 
+    Width="200" 
+    SizeToContent="Height"
+    WindowStartupLocation="CenterScreen" 
+        >
+    <StackPanel>
+        <My:MyUserControl Margin="1"/>
+        <My:MyUserControl Margin="1"/>
+    </StackPanel>
+</Window>
