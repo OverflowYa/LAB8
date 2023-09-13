@@ -1,0 +1,15 @@
+﻿<Window x:Class="WpfApp2.Window0"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Window0" 
+    Height="300" Width="300"
+    SizeToContent="WidthAndHeight"
+    MinWidth="300"
+    MaxWidth="400"
+    MinHeight="100"
+    WindowStartupLocation="CenterScreen"
+        >
+    <StackPanel>
+        <Button Margin="5" Click="LifeEvents">1) События времени жизни окна</Button>
+    </StackPanel>
+</Window>
